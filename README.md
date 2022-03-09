@@ -1,4 +1,4 @@
-# dataset-shift
+# Dataset-shift
 
 The basic idea to identify shift: if there is a shift in the dataset, then on mixing the train and test file, you should still be able to classify an instance of the mixed dataset as train or test with reasonable accuracy.
 
